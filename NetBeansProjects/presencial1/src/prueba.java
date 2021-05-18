@@ -3,19 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package presencial1;
 
 /**
  *
  * @author jose
+*@date May 18, 2021
+*@time 10:15:48 AM
+*@encoding UTF-8
+*@name prueba
  */
-public class Presencial1 {
+public class prueba {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // Fichero de modifacion
-    }
-    
 }
