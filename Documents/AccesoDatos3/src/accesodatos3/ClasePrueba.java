@@ -13,7 +13,7 @@ package accesodatos3;
 *@time 8:41:32 PM
 *@encoding UTF-8
 *@name ClasePrueba
-* clase de prueba de subida a github
+* clase de prueba de subida a github  
  */
 public class ClasePrueba {
 
