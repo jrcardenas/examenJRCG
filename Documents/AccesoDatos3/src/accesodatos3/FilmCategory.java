@@ -1,6 +1,8 @@
 package accesodatos3;
 // Generated 22-ene-2019 17:11:15 by Hibernate Tools 4.3.1
 
+//Prueba de modificacion del archivo filmcategory
+
 
 import java.util.Date;
 
